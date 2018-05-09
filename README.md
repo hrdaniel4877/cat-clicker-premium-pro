@@ -32,4 +32,4 @@ When clicking the Cancel button, the admin form is hidden.
 
 
 ### Live Link
-A live link to the GitHub hosted page can be found [here]()
+A live link to the GitHub hosted page can be found [here](https://hrdaniel4877.github.io/cat-clicker-premium-pro/)
